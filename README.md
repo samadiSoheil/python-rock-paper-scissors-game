@@ -33,7 +33,7 @@ Rock, Paper, Scissors is a classic game where you compete against the computer. 
 3. Run the game:
 
 ```bash
-python game.py
+python src/main.py
 ```
 
 ## How to Play
